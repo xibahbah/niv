@@ -1,0 +1,285 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "path": ".claude/skills/agent-reach/LICENSE",
+      "sha256": "e94c131ac1c2f78cfd8f7e69da354c0ff58e4e54071697703d56856c036de402"
+    },
+    {
+      "path": ".claude/skills/agent-reach/SKILL.md",
+      "sha256": "58c58dfff1832785ac604c5a45e00fbfcd34666af5f2e7c2db14b806b1a1d647"
+    },
+    {
+      "path": ".claude/skills/agent-reach/UPSTREAM.md",
+      "sha256": "caa9d37085286a27a8ef829c1e496e26be50c78e38f8cee244644749b018ec98"
+    },
+    {
+      "path": ".claude/skills/agent-reach/references/capabilities.md",
+      "sha256": "36105d4686493e67eb2f6d7cb47479e06bef6fbfe7159f08d3a6b64314b1cd79"
+    },
+    {
+      "path": ".claude/skills/agent-reach/references/maintenance.md",
+      "sha256": "f1bc13d07c631cfe00ebaf69bc0a3243f84b2ffb905d4620c62edcd5644d61f2"
+    },
+    {
+      "path": ".claude/skills/agent-reach/references/sessions.md",
+      "sha256": "433c54d462e83ff1255d4d294c4bd6457028ccf3dbbe16c325837d46c336fa0e"
+    },
+    {
+      "path": ".claude/skills/asd-ste100/LICENSE",
+      "sha256": "63ea6def03557beaa80f27d81c508335f58f1b417c7301ef6f012521eba15bb1"
+    },
+    {
+      "path": ".claude/skills/asd-ste100/README.md",
+      "sha256": "15cc51b3dbd90aaaaa52b25aee8302a9e8459189f49b99c4540c7746f787782f"
+    },
+    {
+      "path": ".claude/skills/asd-ste100/SKILL.md",
+      "sha256": "d83875b5d080cbc33309566350a409f1ee7aba8460920ccaefdb653cee572bf0"
+    },
+    {
+      "path": ".claude/skills/asd-ste100/UPSTREAM.md",
+      "sha256": "03f58658e6e8d7b13981d08a99fdd267d6b976c20ee774ca8a3eb4d920653f80"
+    },
+    {
+      "path": ".claude/skills/asd-ste100/examples/before-after.md",
+      "sha256": "1ca49261657a2c50cd7d196ad71fa60ebbe466ab2fa0a1b5a2a612de682a125d"
+    },
+    {
+      "path": ".claude/skills/asd-ste100/examples/linter-edge-cases.md",
+      "sha256": "eb8750c0be472737c15683fb5b8123f4e824690fe0be1c5d4e95d03bc1c45533"
+    },
+    {
+      "path": ".claude/skills/asd-ste100/references/writing-rules.md",
+      "sha256": "cb3ad2ca6fb912de70bc7e5667425439fe3adc625586cd16997977433d152992"
+    },
+    {
+      "path": ".claude/skills/asd-ste100/scripts/ste-lint.py",
+      "sha256": "46a319cd968c352169fa45e252ae3f172b05ede317cad2f8bd696fffb417ffd0"
+    },
+    {
+      "path": ".claude/skills/claude-jobs/LICENSE",
+      "sha256": "3285909f8a4b4ecf61294c56b66ef9d4ba6ca90a2d15a7121e3f64608d691d2a"
+    },
+    {
+      "path": ".claude/skills/claude-jobs/SKILL.md",
+      "sha256": "4a730c5eea48572ed40d9fc6e48568677b5fed002f589838418ea59a82edd02e"
+    },
+    {
+      "path": ".claude/skills/claude-jobs/UPSTREAM.md",
+      "sha256": "b00ae87f219620835845cc1172cf69bc867c3ef8caf7aff755e882f379bf6a5e"
+    },
+    {
+      "path": ".claude/skills/job-analyzer/LICENSE",
+      "sha256": "75054b6a08e1008c86b6045ab99add2c8fa571987880951a9929f11ee56a7d64"
+    },
+    {
+      "path": ".claude/skills/job-analyzer/SKILL.md",
+      "sha256": "d35ec124006d958d2c1b6a62d3c9a681d8d1d313d1f021f9747883e8add11680"
+    },
+    {
+      "path": ".claude/skills/job-analyzer/UPSTREAM.md",
+      "sha256": "048820e05d49b2946dc2f5c54d9d7fa8d37c592f9edaea732975d679e0948d09"
+    },
+    {
+      "path": ".claude/skills/job-crawler/LICENSE",
+      "sha256": "75054b6a08e1008c86b6045ab99add2c8fa571987880951a9929f11ee56a7d64"
+    },
+    {
+      "path": ".claude/skills/job-crawler/SKILL.md",
+      "sha256": "374c39f2e23e99da37986e857c667728e73c579a1ef4e71cf80248a271be8745"
+    },
+    {
+      "path": ".claude/skills/job-crawler/UPSTREAM.md",
+      "sha256": "6c00b2b68db337c3560f28b66c2ea392659a76d509d7acfb76c5cae9dc7ec54e"
+    },
+    {
+      "path": ".claude/skills/job-form-filler/LICENSE",
+      "sha256": "75054b6a08e1008c86b6045ab99add2c8fa571987880951a9929f11ee56a7d64"
+    },
+    {
+      "path": ".claude/skills/job-form-filler/SKILL.md",
+      "sha256": "2e221e036df04eb87fc16df08f1bd519cefad6d4787ac5a5d4cdd28cd4b66d9f"
+    },
+    {
+      "path": ".claude/skills/job-form-filler/UPSTREAM.md",
+      "sha256": "9d6b63ea8f0b6de1e653d3865b3d883018840b02ac80dd225d4e9f643931e1cd"
+    },
+    {
+      "path": ".claude/skills/job-search/LICENSE",
+      "sha256": "2eaa2216f69349745a5006fa0121519e67ccce123128bab955f156651726a42b"
+    },
+    {
+      "path": ".claude/skills/job-search/SKILL.md",
+      "sha256": "9188a5633491a5e7e20d3534dadfc39fca05f2d7e883598278e5b5506d5f1297"
+    },
+    {
+      "path": ".claude/skills/job-search/UPSTREAM.md",
+      "sha256": "ac64ac5a2a9a843b5e09b9d1bb3bbf838e6a98f2f1b9e215114dadf833ecea35"
+    },
+    {
+      "path": ".claude/skills/job-search/find_jobs.py",
+      "sha256": "134c5d60ee0d9479a46742c8a85b98c1cd5b9663f3a350c0847030d663d4164d"
+    },
+    {
+      "path": ".claude/skills/network-finder/LICENSE",
+      "sha256": "75054b6a08e1008c86b6045ab99add2c8fa571987880951a9929f11ee56a7d64"
+    },
+    {
+      "path": ".claude/skills/network-finder/SKILL.md",
+      "sha256": "d740b224e52dbd260f0c93c88f89ebb0382ad6968fc515a09da93795397fa5dd"
+    },
+    {
+      "path": ".claude/skills/network-finder/UPSTREAM.md",
+      "sha256": "7d81053e8ff118757a7a6a57e8cf18be4e20317e21a4172a0acdd996ea999278"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "51dd0e771eaa4752249e96ff06bc40732f714636e0bb38727da373e219676a1c"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "a1cf74ba97cb89cb61de439f01d68fd69b1a60f407bbb8e33a77d9b9eefb093d"
+    },
+    {
+      "path": "CLAUDE.md",
+      "sha256": "3acf32435b17499e723b16e557038ac8a8f61901dd6ab8b46ebf748943af5509"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "6eac2ce16dfa92393d5dda4513189f43c2bf5aa96af2ad22ec987e5ccd2cb5e4"
+    },
+    {
+      "path": "MEMORY.md",
+      "sha256": "32e39d05ecba05841aec66ff157f929606b8a1d5ba174a3d17e13436c97503ba"
+    },
+    {
+      "path": "ONBOARDING.md",
+      "sha256": "f02a8f37cd92b28c8872244d8061bfb08ccf7aa8e3dd86943e52e71b55120a9f"
+    },
+    {
+      "path": "README.md",
+      "sha256": "6d80714fee58aeb97a06962c780aa70e2bf1b4af127cd042e4887f471e4c9168"
+    },
+    {
+      "path": "THIRD_PARTY.md",
+      "sha256": "644705475946d61374fb1d3ef61c607c05d804e4a344a2b55f0d574eef1af892"
+    },
+    {
+      "path": "docs/AGENT-REACH.md",
+      "sha256": "549092bef71a5edb9969dca23d114f6a8571109483f61f7b652198e17dbc81bc"
+    },
+    {
+      "path": "docs/LESSONS.md",
+      "sha256": "c1c19e7f2bc7aa35319349840d3c6b6c783790386c071ede7c37043ad71a4ff2"
+    },
+    {
+      "path": "docs/OPERATIONS.md",
+      "sha256": "1b1c34e0aca18b149657197b05216b4a69cb12441e9cf63024829cba4519c4f4"
+    },
+    {
+      "path": "docs/PROGRAMS.md",
+      "sha256": "04df3a0f5d53ac24f16f2d98fdd68d8fbae312b243b5a339cef351561228c9ef"
+    },
+    {
+      "path": "docs/PUBLISHING.md",
+      "sha256": "92c9ebd253d2d656db3a4fab221aaccbf216d1310d5fd9411cacb261fc425769"
+    },
+    {
+      "path": "docs/SCHEDULING.md",
+      "sha256": "d85cdeb5ddc1a04e7e4eeec78c0dc5b52dbb491829c44c063555a2935375af92"
+    },
+    {
+      "path": "scripts/bootstrap.py",
+      "sha256": "99ea2bed1690e9944a602da179226c1faf5538c76f850f1da3886a06a82edb60"
+    },
+    {
+      "path": "scripts/export_public.py",
+      "sha256": "a4adefc8a2086e7c44af8e4007a70744eb41dcc1cda11b1abaa9b1763ba78d93"
+    },
+    {
+      "path": "scripts/filter_listings.py",
+      "sha256": "e97bbd1d6d197b5725aa3ce579b0e439459299331be182206648c6b2eddfaa27"
+    },
+    {
+      "path": "scripts/preflight.py",
+      "sha256": "9c054f596cd7c13528efc2794cafab0e74630134c13e61b532fc8326891b89b0"
+    },
+    {
+      "path": "scripts/validate_handoff.py",
+      "sha256": "2ad27176e072c192aab76fb1e8ec9fcd3154fb5a54184a8ab3be2a046a690475"
+    },
+    {
+      "path": "workflow/LATEST.example.md",
+      "sha256": "f8966a5db669f7cf1ce96a4218fe03b34e177367b33b1194395ddbcd5c686d04"
+    },
+    {
+      "path": "workflow/MEMORY.example.md",
+      "sha256": "32e39d05ecba05841aec66ff157f929606b8a1d5ba174a3d17e13436c97503ba"
+    },
+    {
+      "path": "workflow/OWNER.example.md",
+      "sha256": "0fcced7fbd0354642b804439331b349a03b9062c8ed0f440d407f3071d49c872"
+    },
+    {
+      "path": "workflow/README.md",
+      "sha256": "e5049c5ffeab4c83d8628f980bc5568f71099f04c52ebcdd0d31dc27e71ebff3"
+    },
+    {
+      "path": "workflow/claude-start.md",
+      "sha256": "524d99dfb6c8f578f224af6d9f0db67b659062d4db93444e8b3c1e51eb90ea46"
+    },
+    {
+      "path": "workflow/contact.example.json",
+      "sha256": "c7438be84685bdf96d792d0ba56896bda90ad4a0856227f9c253cf8ffdb8a882"
+    },
+    {
+      "path": "workflow/daily-policy.example.json",
+      "sha256": "9d42b049afd4cac2a58194e81732efa92b4116529dabb275c95629c09255ee65"
+    },
+    {
+      "path": "workflow/daily-run.md",
+      "sha256": "69b313699ef57f882b4eb82fef0f6e4bf21c7dba04cc95816becc8793a799c4e"
+    },
+    {
+      "path": "workflow/grokbot-start.md",
+      "sha256": "1c1fc0f06c3a93c13fed4c3581ccce5692d365ce45c38dbc771a0cdf08b07184"
+    },
+    {
+      "path": "workflow/morning-task-prompt.md",
+      "sha256": "eed943d3fbb6e1c5d3a243bb958b29a5613745bf093d6d2422a7707bdaa35b1c"
+    },
+    {
+      "path": "workflow/networking.md",
+      "sha256": "9b2e803983471de9762454fee0c7e6ea055ac2c6d2a5f0a7b92d33e6ab2be6cb"
+    },
+    {
+      "path": "workflow/profile.example.json",
+      "sha256": "1da091b5c543e875ed127fc2028501fc9046085187395b6189136de2273fb8bb"
+    },
+    {
+      "path": "workflow/task.example.json",
+      "sha256": "0f81a15d3d1df28367628ea563f96678b17d525ce4d63f27550345190c52e310"
+    },
+    {
+      "path": "workflow/templates/HANDOFF.md",
+      "sha256": "c0e0f26e7bbbd923551a97f24eb30d043e8444c6d222ca28243f697b8556d2d9"
+    },
+    {
+      "path": "workflow/templates/filled-forms.md",
+      "sha256": "a3329ca14d8c018552887093595ca9e554b6f796fa65fffd74dc9c5c4f1d4990"
+    },
+    {
+      "path": "workflow/templates/manifest.example.json",
+      "sha256": "e3c4e8c2b5d7f1d708aaae0561eac4343baff6a89068838730f9dc69e6de0873"
+    },
+    {
+      "path": "workflow/templates/run-log.md",
+      "sha256": "aa21cae4df24f5516a2e37d041707189708898d143f4358d1c1bd9e2ec26ac24"
+    },
+    {
+      "path": "workflow/upstreams.json",
+      "sha256": "2544f0bd1fe4e71e62fb278e4be2c699ab34bb34091a1304c596893bbc6a62f7"
+    }
+  ]
+}
