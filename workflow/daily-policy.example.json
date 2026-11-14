@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "timezone": "America/Los_Angeles",
+  "research_owner": "gpt",
+  "browser_owner": "grok",
+  "research_target": 30,
+  "submission_target": 30,
+  "submission_daily_cap": 30,
+  "backlog_first": true,
+  "authorization": {
+    "mode": "none",
+    "source": null,
+    "scope": null
+  },
+  "sources": {
+    "shared_entry": "MEMORY.md",
+    "personal_answers": "OWNER.md",
+    "experience": "OWNER.md",
+    "profile": "workflow/profile.json",
+    "applications": "applications/log.csv"
+  },
+  "scheduler": {
+    "gpt_status": "not_configured",
+    "grok_status": "not_configured"
+  },
+  "reports": {
+    "daily_forms": "logs/grok/<date>/filled-forms.md",
+    "daily_execution": "logs/grok/<date>/run-log.md"
+  }
+}
+
