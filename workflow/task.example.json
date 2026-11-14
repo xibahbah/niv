@@ -1,0 +1,42 @@
+{
+  "job_id": "<ATS>:<posting-id>",
+  "company": "",
+  "role": "",
+  "apply_url": "",
+  "resume_pdf": "",
+  "answers": {},
+  "unresolved_questions": [],
+  "status": "awaiting-approval",
+  "approval": {
+    "approved": false,
+    "approved_at": null,
+    "approved_by": null
+  },
+  "execution": {
+    "started_at": null,
+    "completed_at": null,
+    "confirmation": null,
+    "error": null,
+    "attempts": []
+  },
+  "authorization": {
+    "mode": null,
+    "source": null,
+    "scope_checked_at": null,
+    "eligibility_resolved": false,
+    "required_answers_resolved": false
+  },
+  "claim": {
+    "worker": null,
+    "claimed_at": null,
+    "lease_expires_at": null
+  },
+  "audit": {
+    "filled_form_path": null,
+    "daily_form_report": null,
+    "daily_run_log": null,
+    "full_capture_complete": false,
+    "screenshots": []
+  }
+}
+
