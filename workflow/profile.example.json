@@ -1,0 +1,52 @@
+{
+  "owner_name": "",
+  "timezone": "America/Los_Angeles",
+  "target_roles": [
+    "data analyst",
+    "data scientist",
+    "machine learning",
+    "data engineer",
+    "ai engineer"
+  ],
+  "excluded_title_keywords": [
+    "senior",
+    "staff",
+    "principal",
+    "director",
+    "manager"
+  ],
+  "remote_only": false,
+  "minimum_salary": null,
+  "graduation_date": null,
+  "earliest_start_date": null,
+  "daily_target": 30,
+  "resume_sources": [
+    "OWNER.md",
+    "assets/"
+  ],
+  "standard_answers_path": "OWNER.md",
+  "application_log": "applications/log.csv",
+  "build_command": null,
+  "sources": {
+    "greenhouse": [],
+    "ashby": [],
+    "lever": [],
+    "remoteok": false,
+    "remotive": false
+  },
+  "schedule": {
+    "scan": "19:00",
+    "browser": "08:00"
+  },
+  "networking": {
+    "owner": "claude",
+    "provider": "gmail",
+    "daily_draft_target": 2,
+    "send_mode": "review_before_send",
+    "follow_up_after_days": 7,
+    "max_follow_ups": 1,
+    "records_dir": "outreach/records"
+  },
+  "owner_record": "OWNER.md",
+  "daily_policy": "workflow/daily-policy.json"
+}
