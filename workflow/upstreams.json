@@ -1,0 +1,56 @@
+[
+  {
+    "skill": "job-search",
+    "source": "https://github.com/Yodablues/claude-code-job-search.git",
+    "commit": "1a0c1c4a31cac98bf05ef24cd76c36b1c4ca04b4",
+    "source_path": "./SKILL.md",
+    "adaptation": "Repository profile, local resume sources, Grokbot browser handoff; original in UPSTREAM.md"
+  },
+  {
+    "skill": "claude-jobs",
+    "source": "https://github.com/jshchnz/claude-jobs.git",
+    "commit": "27f077d1553f4431f1c0c33c1befb8d5c71c62bb",
+    "source_path": "./SKILL.md",
+    "adaptation": "Repository profile, local resume sources, Grokbot browser handoff; original in UPSTREAM.md"
+  },
+  {
+    "skill": "job-crawler",
+    "source": "https://github.com/sameergdogg/job-search-skills.git",
+    "commit": "2db63263979fe8e240ee571e262ff633111b533d",
+    "source_path": "job-crawler/SKILL.md",
+    "adaptation": "Repository profile, local resume sources, Grokbot browser handoff; original in UPSTREAM.md"
+  },
+  {
+    "skill": "job-analyzer",
+    "source": "https://github.com/sameergdogg/job-search-skills.git",
+    "commit": "2db63263979fe8e240ee571e262ff633111b533d",
+    "source_path": "job-analyzer/SKILL.md",
+    "adaptation": "Repository profile, local resume sources, Grokbot browser handoff; original in UPSTREAM.md"
+  },
+  {
+    "skill": "network-finder",
+    "source": "https://github.com/sameergdogg/job-search-skills.git",
+    "commit": "2db63263979fe8e240ee571e262ff633111b533d",
+    "source_path": "network-finder/SKILL.md",
+    "adaptation": "Repository profile, local resume sources, Grokbot browser handoff; original in UPSTREAM.md"
+  },
+  {
+    "skill": "job-form-filler",
+    "source": "https://github.com/sameergdogg/job-search-skills.git",
+    "commit": "2db63263979fe8e240ee571e262ff633111b533d",
+    "source_path": "job-form-filler/SKILL.md",
+    "adaptation": "Repository profile, local resume sources, Grokbot browser handoff; original in UPSTREAM.md"
+  },
+  {
+    "skill": "agent-reach",
+    "source": "https://github.com/Panniantong/Agent-Reach",
+    "version": "1.6.0",
+    "reviewed_tree": "c70ae6da5d39bc90e09ad2ae0575ccc89f31e284",
+    "distribution": "skill and references only; executable installed separately"
+  },
+  {
+    "skill": "asd-ste100",
+    "source": "https://github.com/danyuchn/asd-ste100-skill",
+    "provenance": ".claude/skills/asd-ste100/UPSTREAM.md"
+  }
+]
