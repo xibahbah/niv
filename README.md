@@ -41,7 +41,7 @@ This template does not provision cloud execution, model selection, or a Grok ser
 ## Private working data
 
 Keep your actual working copy in private storage.
-The default Git rules ignore OWNER.md, profiles, scans, applications, outreach, and logs.
+The `.gitignore` file lists paths for files that each user may create later. For example, `scripts/bootstrap.py` creates a blank `OWNER.md` in the user's working copy. The published template contains only `workflow/OWNER.example.md`. These rules keep generated personal files and application records out of normal `git add` operations.
 For shared agent access, create a separate private repository.
 Only there, deliberately track the required private files after checking visibility.
 Never change this public template into your application database.
