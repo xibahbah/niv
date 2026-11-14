@@ -1,0 +1,28 @@
+{
+  "contact_key": "<company>-<contact>",
+  "name": "",
+  "company": "",
+  "email": "",
+  "email_source": "",
+  "relationship_evidence": [],
+  "job_ids": [],
+  "channel": "gmail",
+  "subject": "",
+  "body": "",
+  "attachments": [],
+  "status": "draft",
+  "gmail_draft_id": null,
+  "gmail_thread_id": null,
+  "gmail_sent_message_id": null,
+  "last_inbound_at": null,
+  "last_sent_at": null,
+  "follow_up_count": 0,
+  "next_follow_up_at": null,
+  "referral_status": "not_requested",
+  "approval": {
+    "approved": false,
+    "approved_at": null
+  },
+  "error": null
+}
+
